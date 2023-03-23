@@ -1,0 +1,4 @@
+total 12
+drwxrwxr-x  2 tetsu tetsu 4096  3月 16 17:32 ./
+drwxrwxr-x 18 tetsu tetsu 4096  3月 23 17:56 ../
+-rw-rw-r--  1 tetsu tetsu  680  3月 23 18:22 main.go
